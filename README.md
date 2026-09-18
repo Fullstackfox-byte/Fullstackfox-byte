@@ -51,8 +51,6 @@ const sanchayan = {
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img height="170" src="./assets/stats.svg" />
   <img height="170" src="./assets/top-langs.svg" />
