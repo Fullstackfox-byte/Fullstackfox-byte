@@ -1,4 +1,4 @@
-# Hi 👋, I'm C
+# Hi 👋, I'm SANCHAYAN BISWAS
 
 Student developer (B.Tech CSE) building full-stack web apps and AI-powered tools.
 
