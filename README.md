@@ -51,13 +51,14 @@ const sanchayan = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fullstackfox-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstackfox-byte&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Fullstackfox-byte&theme=tokyonight&hide_border=true" />
-</div>
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="170" src="./assets/stats.svg" />
+  <img height="170" src="./assets/top-langs.svg" />
+  <br/>
+  <img src="./assets/streak.svg" />
+</div>
 ---
 
 ## 🤝 Let's Connect
