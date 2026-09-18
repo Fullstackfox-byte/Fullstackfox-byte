@@ -52,10 +52,10 @@ const sanchayan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="./assets/stats.svg" />
-  <img height="170" src="./assets/top-langs.svg" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
   <br/>
-  <img src="./assets/streak.svg" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 </div>
 
 ---
