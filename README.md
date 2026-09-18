@@ -1,23 +1,67 @@
-# Hi 👋, I'm SANCHAYAN BISWAS
+<div align="center">
 
-Student developer (B.Tech CSE) building full-stack web apps and AI-powered tools.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sanchayan%20Biswas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Tools%20%C2%B7%20Game%20Dev&descSize=18&descAlignY=58" width="100%" />
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Building+AI+voice+assistants;Making+games+with+custom+engines;B.Tech+CSE+Student" alt="Typing SVG" />
+</a>
 
-### 🚀 Projects
+<br/>
 
-- **Jarvice** — Multilingual (Hindi/English/Bengali) voice-command AI assistant in Python, with wake-word activation, Google STT, ElevenLabs TTS, and Claude tool-use for system control.
-- **XYRON** — MERN-stack AI assistant web app with real-time chat, voice input/output, PPT generation, and a canvas-based animated "orb" UI.
-- **VayuDrishti** — Leaflet.js-based air quality (AQI) mapping application with satellite station data and a dark "tech ops" interface.
-- **Rampage United** — 2D fighting game with a custom skeletal animation engine, now being converted to a full MERN stack with JWT auth and real-time multiplayer matchmaking.
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Fullstackfox-byte&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Fullstackfox-byte&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstackfox-byte&layout=compact&theme=dark)
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```js
+const sanchayan = {
+  role: "B.Tech CSE Student & Full-Stack Developer",
+  focus: ["MERN apps", "AI-powered tools", "Game development"],
+  languages: ["JavaScript", "Python", "Bengali", "Hindi", "English"],
+  currentlyBuilding: "Rampage United: MERN + JWT auth + real-time multiplayer",
+  lookingFor: "Internships, open-source projects & hackathon teams",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,vite,html,css,git,vscode&theme=dark" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **🎙️ Jarvice** | Multilingual (Hindi/English/Bengali) voice-command AI assistant with wake-word activation, Google STT, ElevenLabs TTS and Claude tool-use for system control | Python, Claude API | [Repo](https://github.com/Fullstackfox-byte/REPO_NAME) |
+| **🤖 XYRON** | MERN AI assistant web app with real-time chat, voice input/output, PPT generation and a canvas-animated "orb" UI | MongoDB, Express, React, Node | [Repo](https://github.com/Fullstackfox-byte/REPO_NAME) · [Live](https://YOUR_LIVE_LINK) |
+| **🌍 VayuDrishti** | Leaflet.js air quality (AQI) map with satellite station data and a dark "tech ops" interface | JavaScript, Leaflet.js | [Repo](https://github.com/Fullstackfox-byte/REPO_NAME) · [Live](https://YOUR_LIVE_LINK) |
+| **🥊 Rampage United** | 2D fighting game with a custom skeletal animation engine, now moving to a full MERN stack with JWT auth and real-time multiplayer matchmaking | React, Vite, Node, MongoDB | [Repo](https://github.com/Fullstackfox-byte/REPO_NAME) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fullstackfox-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstackfox-byte&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Fullstackfox-byte&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+Open to collaborating on open-source projects, hackathon builds and internships. Feel free to reach out!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
