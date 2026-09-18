@@ -3,21 +3,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sanchayan%20Biswas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Tools%20%C2%B7%20Game%20Dev&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=whoami+%E2%86%92+Full-Stack+MERN+Developer;build+--ai+voice-assistants;make+games+--engine+custom;hackathon+--mode+always-on" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Building+AI+voice+assistants;Making+games+with+custom+engines;Hackathon+Enthusiast+%7C+B.Tech+CSE+Student" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="mailto:sanchayanb9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sanchayan-biswas-082266393?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Fullstackfox-byte?tab=followers"><img src="https://img.shields.io/github/followers/Fullstackfox-byte?style=for-the-badge&logo=github&color=0e75b6&labelColor=0d1117" /></a>
 <img src="https://komarev.com/ghpvc/?username=Fullstackfox-byte&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 <br/>
 
-## `~/whoami`
+## About Me
 
 ```js
 const sanchayan = {
@@ -32,7 +31,7 @@ const sanchayan = {
 
 ---
 
-## `~/stack`
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" /><br/>
@@ -41,7 +40,7 @@ const sanchayan = {
 
 ---
 
-## `~/projects`
+## Projects
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
@@ -51,18 +50,18 @@ const sanchayan = {
 
 ---
 
-## `~/stats`
+## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fullstackfox-byte&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstackfox-byte&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fullstackfox-byte&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fullstackfox-byte&theme=tokyonight" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Fullstackfox-byte&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## `~/contact`
+## Contact
 
 Always up for hackathon teams, open-source collaborations and building something cool together.
 
