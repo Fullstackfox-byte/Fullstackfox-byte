@@ -34,7 +34,7 @@ const sanchayan = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=C,java,python,js,react,nodejs,express,mongodb,vite,html,css,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i= C,java,python,js,react,nodejs,express,mongodb,vite,html,css,git,vscode&theme=dark" />
 </div>
 
 ---
