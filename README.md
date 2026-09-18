@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sanchayan%20Biswas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Tools%20%C2%B7%20Game%20Dev&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Full-Stack+MERN+Developer;%24+build+--ai+voice-assistants;%24+make+games+--engine+custom;%24+hackathon+--mode+always-on" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=whoami+%E2%86%92+Full-Stack+MERN+Developer;build+--ai+voice-assistants;make+games+--engine+custom;hackathon+--mode+always-on" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,10 +35,8 @@ const sanchayan = {
 ## `~/stack`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,git,vscode&theme=dark" />
 </div>
 
 ---
@@ -69,7 +67,7 @@ const sanchayan = {
 Always up for hackathon teams, open-source collaborations and building something cool together.
 
 ```bash
-$ git clone https://github.com/Fullstackfox-byte && cd ideas && npm start
+git clone https://github.com/Fullstackfox-byte && cd ideas && npm start
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
