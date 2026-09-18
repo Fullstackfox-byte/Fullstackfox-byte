@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sanchayan%20Biswas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Tools%20%C2%B7%20Game%20Dev&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Building+AI+voice+assistants;Making+games+with+custom+engines;B.Tech+CSE+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Building+AI+voice+assistants;Making+games+with+custom+engines;Hackathon+Enthusiast+%7C+B.Tech+CSE+Student" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,9 +22,10 @@
 const sanchayan = {
   role: "B.Tech CSE Student & Full-Stack Developer",
   focus: ["MERN apps", "AI-powered tools", "Game development"],
-  languages: ["JavaScript", "Python", "Bengali", "Hindi", "English"],
+  languages: ["Java", "Python", "JavaScript"],
   currentlyBuilding: "Rampage United: MERN + JWT auth + real-time multiplayer",
-  lookingFor: "Internships, open-source projects & hackathon teams",
+  hackathons: "Regular participant, love building under a deadline",
+  lookingFor: "Open-source projects, hackathon teams & collaborations",
 };
 ```
 
@@ -33,7 +34,7 @@ const sanchayan = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,vite,html,css,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,vite,html,css,git,vscode&theme=dark" />
 </div>
 
 ---
@@ -62,6 +63,6 @@ const sanchayan = {
 
 ## 🤝 Let's Connect
 
-Open to collaborating on open-source projects, hackathon builds and internships. Feel free to reach out!
+Always up for hackathon teams, open-source collaborations and building something cool together. Feel free to reach out!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
