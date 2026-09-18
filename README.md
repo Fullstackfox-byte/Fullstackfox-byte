@@ -43,7 +43,7 @@ const sanchayan = {
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **🤖 XYRON** | MERN AI assistant web app with real-time chat, voice input/output, PPT generation and a canvas-animated "orb" UI | MongoDB, Express, React, Node | [Repo](https://github.com/Fullstackfox-byte/REPO_NAME) · [Live](https://YOUR_LIVE_LINK) |
+| **🤖 XYRON** | MERN AI assistant web app with real-time chat, voice input/output, PPT generation and a canvas-animated "orb" UI | MongoDB, Express, React, Node | [Repo](https://github.com/Fullstackfox-byte/XYRON) · [Live](https://YOUR_LIVE_LINK) |
 | **🌍 VayuDrishti** | Leaflet.js air quality (AQI) map with satellite station data and a dark "tech ops" interface | JavaScript, Leaflet.js | [Repo](https://github.com/Fullstackfox-byte/REPO_NAME) · [Live](https://YOUR_LIVE_LINK) |
 | **🥊 Rampage United** | 2D fighting game with a custom skeletal animation engine, now moving to a full MERN stack with JWT auth and real-time multiplayer matchmaking | React, Vite, Node, MongoDB | [Repo](https://github.com/Fullstackfox-byte/REPO_NAME) |
 
