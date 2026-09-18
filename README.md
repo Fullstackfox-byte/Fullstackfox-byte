@@ -22,7 +22,7 @@
 const sanchayan = {
   role: "B.Tech CSE Student & Full-Stack Developer",
   focus: ["MERN apps", "AI-powered tools", "Game development"],
-  languages: ["Java", "Python", "JavaScript"],
+  languages: ["Java", "Python", "C", "JavaScript"],
   currentlyBuilding: "Rampage United: MERN + JWT auth + real-time multiplayer",
   hackathons: "Regular participant, love building under a deadline",
   lookingFor: "Open-source projects, hackathon teams & collaborations",
@@ -34,7 +34,7 @@ const sanchayan = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,vite,html,css,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,express,mongodb,vite,html,css,git,vscode&theme=dark" />
 </div>
 
 ---
