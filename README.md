@@ -62,7 +62,7 @@ const sanchayan = {
 
 ## Contact
 
-Always up for hackathon teams, open-source collaborations and building something cool together.
+Always up for hackathon teams, open-source collaborations and building something cool AI based project together.
 
 ```bash
 git clone https://github.com/Fullstackfox-byte && cd ideas && npm start
